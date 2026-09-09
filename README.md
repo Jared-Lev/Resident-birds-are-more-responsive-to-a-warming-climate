@@ -1,4 +1,4 @@
-# Resident bird species are more responsive to a warming climate than migrant species
+# Migratory strategy predicts northward range expansion in North American birds
 Data used: USGS Breeding Bird Survey,  NOAA weather data,  AVONET avian morhpological data
 
 Technology used: Analysis: Pandas, statsmodels (Python), Google BigQuery.  
